@@ -2,6 +2,9 @@
 2. Accept max and min limit temperature.
 3. Generate random values for temperature at every 2 second interval.
 4. Compare with the limits to display appropriate value.
+
+
+
    THE OUTPUTS ARE :
    Temperature Monitor
 Enter the MIN temperature limit in celcius: 10
